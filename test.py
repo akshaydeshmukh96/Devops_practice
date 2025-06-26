@@ -7,3 +7,5 @@ for num in range(2, 51):
     else:
         print(num)
 
+echo " test"
+
